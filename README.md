@@ -3,9 +3,9 @@
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118074147/213905793-6e0324fb-84cf-40f8-b6d2-dea97720483f.jpg" alt="my banner"></a>
 </p>
 
-<h3 align="center">![Uploading Anonymous-Laptop-Wallpaper-4k-1024x576.jpg…]()
+<h3 align="center">![_____()
 
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="" target="_blank" rel="mamareza"></a> 👋
 </h3>
 
 <h2 align="center">

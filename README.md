@@ -1,4 +1,4 @@
-# mmd_rezaw
+# mmdrezaww
 <p align="center">
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118074147/213905793-6e0324fb-84cf-40f8-b6d2-dea97720483f.jpg" alt="my banner"></a>
 </p>
